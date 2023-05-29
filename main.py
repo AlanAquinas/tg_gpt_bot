@@ -5,8 +5,8 @@ from aiogram.utils import executor
 
 
 
-token = '6206483462:AAFTexy0r51Wzyk5DqTjTPdhOoAWfhFzCCI'
-openai.api_key = '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'
+token = ''
+openai.api_key = ''
 
 
 bot = Bot(token)
